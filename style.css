@@ -693,9 +693,6 @@ color: #607EAA;
 		width: 180px;
 		margin-top: -80px;
 	}
-	.header-title {
-		font-size: 40px;
-	}
 }
 @media (max-width: 790px) {
 	.card-image {
